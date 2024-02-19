@@ -19,4 +19,9 @@ UNDOING THINGS
 3. Reset commit: permanently take you back to the previous commit
     -> git reset <commit code>
     -> git reset <commit code> --hard: does not retain any changes afterwards
+
+GITHUB PAGES
+A free hosting service that help to make websites for our projects
+    *code . : open your project in vscode
     
+

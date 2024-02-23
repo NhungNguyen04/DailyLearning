@@ -1,0 +1,21 @@
+Backend: saves and manages data.
+
+1. What is a server? A computer that storage data for an organization
+2. BE programming languages: JavaScrip(NodeJS), Python, Ruby, Java
+3. BE framework: helps us create servers (ExpressJS, Python Django, Ruby on Rails, Java Spring)
+4. Packages: use a package manager to manage them (npm for JS, pip for Python, bundler for Ruby and Maven for Java)
+5. Database: MySQL, PostgreSQL, MongoDB
+6. API: Application programming interface: defines what type of requests is allowed and how to handle them
+7. Rest API: representational state transfer: a naming convention for the request (GraphQL or RPC)
+8. Infrastructure: rent computer from cloud computing companies -> IaaS: infrastructure as a service
+9. VMs and Load Balancers: small computer in a large computer that we rent to run BE and database. Load Balancers distribute requests evenly across the VMs
+10. PaaS: platform as a service: we just have to upload backend codes and it will set up everything for us (AWS Elastic Beanstalk, Google Cloud App Engine, Azure App service)
+11. Microservices: contain their own everything to run on their own
+12. SaaS: software as a service: companies provide BE and API for other applications
+13. Additional Technologies:
+    - MySQL, PostgreSQL, MongoDB are primary databases
+    - Blob Storage like AWS, S3 + CDN like CloudFront are used to store and load images
+    - Search databases: Elastic Search to search text
+    - Cache like Redis
+    - Copy databases to an analytical database like snowflake for data science
+    - Use job queue like Rabbit MQ to schedule tasks
